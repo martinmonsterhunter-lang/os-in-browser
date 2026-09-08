@@ -18,12 +18,12 @@ on:
           - ubuntu-latest
           - macos-latest
 
-      username:
+      username: martin
         description: Username
         type: string
         required: true
 
-      password:
+      password:qwert12345
         description: Password
         type: string
         required: true
